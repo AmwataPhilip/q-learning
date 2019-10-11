@@ -1,0 +1,117 @@
+﻿  utils.cpp
+  CMinesweeper.cpp
+  main.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(102,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(108,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(110,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CTimer.cpp
+  CQLearningController.cpp
+C:\Users\phila\Documents\Github\q-learning\Solution\main.cpp(288,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(102,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(108,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(110,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(44,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(48,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(52,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(56,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(99,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(102,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(113,58): warning C4244: '=': conversion from '_Ty1' to 'int', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(113,58): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(113,58): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(113,58): warning C4244:             _Ty1=double
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(113,58): warning C4244:         ]
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(120,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(123,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(142,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CParams.cpp
+  CDiscMinesweeper.cpp
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(143,22): warning C4244: 'initializing': conversion from '_Ty2' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(143,22): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(143,22): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(143,22): warning C4244:             _Ty2=int
+C:\Users\phila\Documents\Github\q-learning\Solution\CQLearningController.cpp(143,22): warning C4244:         ]
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(102,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(108,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(110,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(75,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(75,19): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(75,19): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(75,19): warning C4244:             T=int
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(75,19): warning C4244:         ]
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(76,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(76,19): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(76,19): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(76,19): warning C4244:             T=int
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(76,19): warning C4244:         ]
+  CDiscController.cpp
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscMinesweeper.cpp(103,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(102,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(108,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(110,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(124,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(171,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(211,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(212,34): warning C4244: '+=': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(212,34): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(212,34): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(212,34): warning C4244:             _Ty=double
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(212,34): warning C4244:         ]
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(213,10): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(213,10): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(213,10): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(213,10): warning C4244:             _Ty=double
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(213,10): warning C4244:         ]
+  CDiscCollisionObject.cpp
+  CContMinesweeper.cpp
+C:\Users\phila\Documents\Github\q-learning\Solution\CDiscController.cpp(258,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(102,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(108,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(110,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CController.cpp
+C:\Users\phila\Documents\Github\q-learning\Solution\CContMinesweeper.cpp(101,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(102,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(108,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(110,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(73,91): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(73,91): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(73,91): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(73,91): warning C4244:             _Ty=double
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(73,91): warning C4244:         ]
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(76,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(76,82): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(76,82): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(76,82): warning C4244:             _Ty=double
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(76,82): warning C4244:         ]
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(79,65): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(79,65): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(79,65): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(79,65): warning C4244:             _Ty=double
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(79,65): warning C4244:         ]
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(94,36): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(94,36): warning C4244:         with
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(94,36): warning C4244:         [
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(94,36): warning C4244:             _Ty=double
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(94,36): warning C4244:         ]
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(94,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CContController.cpp
+C:\Users\phila\Documents\Github\q-learning\Solution\CController.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(102,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(108,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(110,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phila\Documents\Github\q-learning\Solution\CContController.cpp(140,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CContCollisionObject.cpp
+  CCollisionObject.cpp
+  C2DMatrix.cpp
+C:\Users\phila\Documents\Github\q-learning\Solution\CContController.cpp(206,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(102,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(108,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\phila\Documents\Github\q-learning\Solution\C2DMatrix.h(110,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C2DMatrix.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  smart sweepers.vcxproj -> C:\Users\phila\Documents\Github\q-learning\Solution\.\Debug\smart sweepers.exe
